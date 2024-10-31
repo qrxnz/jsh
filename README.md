@@ -1,22 +1,23 @@
 # jsh
 
-## Usage
+## 📖 Usage
 > \[!WARNING\]
-> The Ip address and port are hard-coded, you should change the values that interest you!  
-> I don't recommend using this code, I am written that shit for educational purposes!
+> The Ip address and port are hard-coded, you should change the values that interest you!
 
 ```js
 const host = '127.0.0.1';
 const port = 4444;
 ```
+> \[!WARNING\]
+> I don't recommend using this code, I am written that shit for educational purposes!  
 
-To install dependencies:
+- 📦 To install dependencies:
 
 ```bash
 bun install
 ```
 
-To compile into stadalone binary:
+- ⚒️ To compile into stadalone binary:
 
 ```bash
 bun build --compile --minify --sourcemap ./index.js --outfile jsh
