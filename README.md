@@ -11,13 +11,13 @@ const port = 4444;
 > \[!WARNING\]
 > I don't recommend using this code, I am written that shit for educational purposes!  
 
-- 📦 To install dependencies:
+### 📦 To install dependencies
 
 ```bash
 bun install
 ```
 
-- ⚒️ To compile into stadalone binary:
+### ⚒️ To compile into stadalone binary
 
 ```bash
 bun build --compile --minify --sourcemap ./index.js --outfile jsh
