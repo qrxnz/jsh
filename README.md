@@ -1,13 +1,14 @@
 # jsh
 
 ## Usage
-The Ip address and port are hard-coded, you should change the values that interest you!
+> \[!WARNING\]
+> The Ip address and port are hard-coded, you should change the values that interest you!
+> I don't recommend using this code, I am written that shit for educational purposes!
 
 ```js
 const host = '127.0.0.1';
 const port = 4444;
 ```
-I don't recommend using this code, I am written that shit for educational purposes!
 
 To install dependencies:
 
